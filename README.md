@@ -41,7 +41,7 @@ Manage tasks effectively with boards and columns, featuring a responsive interfa
 
 - Progress tracker for completed tasks.
 - Task search across all boards.
-- Import/export tasks and boards (JSON or CSV).
+- Import/export tasks and boards (JSON).
 
 ---
 
@@ -96,4 +96,6 @@ Navigate to individual boards to:
 
 - Manage columns (**To-Do**, **In Progress**, **Done**).
 - Add, edit, or delete tasks with visual indicators for priorities and overdue tasks.
+- below have working screenshot of the project
+<img width="959" alt="Screenshot 2025-01-05 170217" src="https://github.com/user-attachments/assets/18634bde-c2a9-40ed-8781-866f393118a6" />
 
