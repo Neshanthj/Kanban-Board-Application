@@ -97,5 +97,28 @@ Navigate to individual boards to:
 - Manage columns (**To-Do**, **In Progress**, **Done**).
 - Add, edit, or delete tasks with visual indicators for priorities and overdue tasks.
 - below have working screenshot of the project
+
+- <img width="950" alt="Screenshot 2025-01-05 164551" src="https://github.com/user-attachments/assets/c0c1fff0-4c28-4462-beff-a0e91d1bc1f1" />
+
+<img width="950" alt="Screenshot 2025-01-05 164715" src="https://github.com/user-attachments/assets/d2bdb930-1f7c-4252-a378-a8ae18e6c17c" />
+
+<img width="946" alt="Screenshot 2025-01-05 164825" src="https://github.com/user-attachments/assets/201e8265-1bfb-440e-ad58-ae04ca90e824" />
+
+<img width="950" alt="Screenshot 2025-01-05 164946" src="https://github.com/user-attachments/assets/f2549641-3895-44eb-a9b8-080d2fe6939e" />
+
+<img width="953" alt="Screenshot 2025-01-05 165011" src="https://github.com/user-attachments/assets/6d0751a0-83a1-4698-8e2c-e68eda5ba217" />
+
+<img width="959" alt="Screenshot 2025-01-05 165457" src="https://github.com/user-attachments/assets/79d84cac-b4f2-424e-a07b-826068b76c81" />
+
+<img width="919" alt="Screenshot 2025-01-05 165742" src="https://github.com/user-attachments/assets/ce449da9-ec22-4e99-9849-b26ed2b38bb5" />
+
+<img width="958" alt="Screenshot 2025-01-05 170249" src="https://github.com/user-attachments/assets/85f70835-4292-45a6-8307-5c61834f7798" />
+
 <img width="959" alt="Screenshot 2025-01-05 170217" src="https://github.com/user-attachments/assets/18634bde-c2a9-40ed-8781-866f393118a6" />
+
+- mobile responsive screenshot
+
+<img width="692" alt="Screenshot 2025-01-05 170025" src="https://github.com/user-attachments/assets/b90d1c2b-c82a-48b5-8dc4-a816a845ea82" />
+
+<img width="713" alt="Screenshot 2025-01-05 170113" src="https://github.com/user-attachments/assets/b1029609-5a34-4428-8fd8-4db98f91e12f" />
 
