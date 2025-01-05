@@ -51,6 +51,7 @@ Manage tasks effectively with boards and columns, featuring a responsive interfa
 
 1. Clone the repository:
    ```bash
+   https://github.com/Neshanthj/Kanban-Board-Application.git
    ```
 
 ````
